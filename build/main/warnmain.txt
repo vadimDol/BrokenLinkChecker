@@ -1,0 +1,21 @@
+missing module named resource - imported by posix, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named posix - imported by os, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named 'org.python' - imported by pickle, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py, xml.sax
+missing module named ce - imported by os, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+excluded module named _frozen_importlib - imported by importlib, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named java - imported by platform, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named 'java.lang' - imported by platform, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named termios - imported by tty, getpass, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named urllib.urlopen - imported by urllib, lxml.html
+missing module named urllib.urlencode - imported by urllib, lxml.html
+missing module named grp - imported by tarfile, shutil, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named org - imported by copy, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, getpass, C:\Users\vadim\Desktop\py\BrokenLinkChecker\main.py
+missing module named sets - imported by lxml.html.defs, lxml.html
+missing module named UserDict - imported by lxml.html
+missing module named urlparse - imported by lxml.html
+missing module named _scproxy - imported by urllib.request
